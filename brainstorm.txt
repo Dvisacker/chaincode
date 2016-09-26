@@ -1,0 +1,44 @@
+
+put your private keys in the blockchain
+write your bank information in the blockchain
+put credit loan information on the blockchain
+put important passwords on the blockchain ******
+
+
+
+
+
+app where you can perform trades and the trades are registered on the blockchain
+-- users register
+-- selling list 
+-- buying list
+-- users choose whichever list
+-- users can add money on their account
+-- users buy 
+
+OR 
+-- just selling list ? 
+-- could choose the complexity of the app : users could possibly do different things
+-- just selling one item ?
+-- trading stocks ?
+-- visualize the value of a currency on a graph ? then make some kind of trade app
+
+
+
+what type of products ? financial stuff ? standard products 
+-- 
+
+
+
+
+
+store sensitive data on the blockchain
+-- Maybe be able to choose the type of the data
+-- Form where you can enter the type of the data
+-- 1 Field : Title
+-- 1 Field : 
+
+
+
+
+app that manages what is stored on the blockchain ?
